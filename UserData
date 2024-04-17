@@ -1,0 +1,56 @@
+<!DOCTYPE html> <html> <head> <meta charset="utf-8"> <meta name="viewport"
+content="width=device-width, initial-scale=1"> 
+<title style="color:white; margin-left: 5000 px;">
+UserData</title> </head>
+ <body style="background-color: #FFDEAD;"> 
+<h2 style="margin-left:770px">UserData Form </h2>
+<div style="background-color: white; margin-left: 600px;margin-right: 600px;margin-bottom: px;margin-top:px;">
+	<br> </br>
+	<input type="text" placeholder="First name">
+	<input type="text" placeholder="Surname">
+	<br> </br>
+	<input type="Password" placeholder="New Password">
+    <br> </br>
+	<input type="Password" placeholder="Confirm Password">
+	<br> </br>
+	<input type="text" placeholder="Mobile Number">
+	<input type="text" placeholder="email address">
+	<br> </br>
+	Date of Birth
+	<input type="Date" value="">
+	<br> </br>
+<form>
+	<label>
+		Gender
+		<input type="radio" name="gender" value="Male">
+	Male 
+	</label>
+	<label>
+		<input type="radio"name="gender" value="Female">
+	Female
+	</label>
+	<label>
+		<input type="radio" name="gender" value="Custom">
+	Custom
+	</label>
+</form>
+
+	 
+	<br> </br>
+	Upload Profile Picture
+	<input type="file" name="">
+	<br> </br>
+	People who use our service may have uploaded your contact information. Learn more.
+	<br> </br>
+	<input type="checkbox" name="">
+	By clicking, you agree to our Terms, Privacy Policy and Cookies Policy. You may receive SMS notifications from us and can opt out at any time.
+	<br> </br>
+	<input type="button" value="Sign up">
+	<br> </br>
+
+</div>
+
+</body>
+<br> </br>
+<footer style="margin-left: 830px;">About us</footer>
+</html>
