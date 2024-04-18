@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Wireframe Last Page</title>
+	<link rel="stylesheet" type="text/css" href="C:\Users\Lalith\Documents\SCAD\Web Design\Sublime Text Files\Wireframe last Page.css" href="https://fonts.googleapis.com/css?family= Jersey 10 Charted">
+	 
+</head>
+<body>
+	<div style="margin-top: 200px;">
+	<h1 style="color:white; font: Jersey 10 Charted;">Let's Play together...</h1>
+	</div>
+
+	<div >
+		<img src="https://images.hdqwalls.com/download/spiderman-2-ps5-2024-e6-2561x1202.jpg"style="width: 55%; height: 55%; margin-top: 50px;">
+	</div>
+	
+	<div style="color: white; font: courier ;margin-left: 1000px; margin-top: -300px ;">
+
+       <div style="color: #969696;">Mailing Address</div>
+       <div style="color: white;">123 Anywhere St. Any City, ST 12345</div>
+
+       <div style="color: #969696;">Phone Number</div>
+       <div style="color: white;">(123) 456-7890</div>
+
+       <div style="color: #969696;">Email Address</div>
+       <div style="color: white;">hello@reallygreatsite.com</div>
+	</div>
+
+</body>
+</html>
